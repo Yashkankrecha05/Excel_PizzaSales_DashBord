@@ -1,4 +1,4 @@
 # Excel_PizzaSales_DashBord
-This is a Excel and SQL  end to end project 
+This is a Excel and  MS SQL Server DB  end to end project 
 
 Like This :)
